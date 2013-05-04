@@ -1,0 +1,22 @@
+{
+  "name": "ch",
+  "version": "0.0.0",
+  "description": "A simple approach to handling resource concurrency limits within a single system thread.",
+  "main": "lib/concurrency-handler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zannalov/concurrency-handler-js.git"
+  },
+  "keywords": [
+    "concurrency",
+    "resource",
+    "queue",
+    "worker",
+    "async",
+    "file",
+    "descriptors",
+    "sockets"
+  ],
+  "author": "Jason Schmidt",
+  "license": "MIT"
+}
