@@ -1,6 +1,6 @@
 {
   "name": "ch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple approach to handling resource concurrency limits within a single system thread.",
   "main": "lib/concurrency-handler.js",
   "repository": {
