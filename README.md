@@ -90,7 +90,8 @@ are immediately available, the callback will be run inline (not deferred).
         [category: category],
         [amount: number],
         [debug: boolean],
-        });
+        [unshift: boolean],
+    });
 
 The release method is used to indicate when the callback no longer requires its
 resources (release the resources back into the wild). It is returned from the
